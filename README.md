@@ -1,1 +1,1 @@
-# Algorithms_cpp
+Podstawy algorytmiki c++
